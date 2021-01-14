@@ -6,8 +6,7 @@ html{
     font-size: 2.2rem;
 }
 .navbar-edit{
-    padding: 1% 3%;
-    background-color: rgb(255, 245, 228);
+
 }
 .nav-link{
     color: black;
@@ -33,5 +32,12 @@ html{
     font-size: 4.5rem;
 }
 .font-view{
-    background-color: rgb(255, 245, 228);
+    padding: 5% 1%;
+}
+.button-logo{
+    width: 30px;
+}
+.btn-color{
+    background-color: #55a108;
+    color: white;
 }
